@@ -1,0 +1,31 @@
+id: P0882A720
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of sPyan snga Glang ri thang pa Blo gros rgyal mtshan dpal bzang
+    po (1432–1488)
+  author: gser mdog paN chen shAkya mchog ldan/
+  description: 'Digital version 4.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); head entries supplemented and linebreaks encoded, revision in process,
+    no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/363
+  bases:
+    fdc3:
+      title: Hagiography of sPyan snga Glang ri thang pa Blo gros rgyal mtshan dpal
+        bzang po (1432–1488)
+      order: 1
+      base_file: fdc3.txt
+created_at: '2022-04-15T18:58:11.509466'
+last_modified_at: '2022-04-15T18:58:11.509473'
+quality: null
